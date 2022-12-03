@@ -8,5 +8,3 @@ from Formula import *
 
 
 print(location_finder())
-
-print(load_pic())
