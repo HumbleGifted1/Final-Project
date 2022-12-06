@@ -7,4 +7,6 @@ Created on Dec 3, 2022
 from Formula import *
 
 
-print(location_finder())
+# print(location_finder())
+
+# print(load_pic("Mahaly.jpg"))
