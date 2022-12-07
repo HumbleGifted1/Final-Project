@@ -1,8 +1,13 @@
 '''
-Created on Dec 3, 2022
-
-@author: mahalymarcelin
+Name: Mahaly Marcelin
+email: marcelml@mail.uc.edu
+Assignment: Final Project
+Course: IS 4010
+Semester/Year: Fall 2022
+Brief Description: Final Project for this class!
+Anything else that's relevant: hello
 '''
+
 from PIL import Image
 import json 
 
