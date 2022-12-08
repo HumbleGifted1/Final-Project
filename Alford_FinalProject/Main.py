@@ -13,7 +13,7 @@ from Formula import *
 # paste into function: 
 # "Alford", "EncryptedGroupHints.json", "english.txt"
 
-print(location_finder())
+print(location_finder("Alford", "EncryptedGroupHints.json", "english.txt"))
 
-print(load_pic())
+print(load_pic("Mahaly.jpg"))
 
